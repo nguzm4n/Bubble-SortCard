@@ -41,7 +41,7 @@ position: absolute;
     right: 0;
     bottom: 0;
     margin-bottom: 0;
-    
+    transform: rotate(180deg);
 }
 
 .columna:hover {
